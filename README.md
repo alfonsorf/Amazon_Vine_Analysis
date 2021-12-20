@@ -1,4 +1,4 @@
-# Amazon Vine Analysis
+# Big Data and Amazon Vine Analysis
 
 ## Overview
 The purpose of this week's challenge was to use my knowledge of Big Data to create an Amazon Web Services (AWS) database and connect it with PostgreSQL to then analyze the Amazon  Vine customer reviews. Amazon Vine is a program that allows manufacturers and publishers to receive reviews for their products. Along with this analysis I was tasked with creating an Extract, Transform, and Load pipeline for the raw data to ensure correct results.
